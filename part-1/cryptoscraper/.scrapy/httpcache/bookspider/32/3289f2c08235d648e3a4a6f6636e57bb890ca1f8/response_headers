@@ -1,0 +1,15 @@
+Date: Sun, 15 Sep 2024 19:48:20 GMT
+Content-Type: text/html; charset=utf-8
+Cache-Control: private
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: origin-when-cross-origin
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=7WTd3qRUoz176SAJOv0x9LytDWGG6UWYOBXiKvfR2%2BIAZ5GGJQ7GHoRiU6dGWWWLq1PT7%2BeMntHKvsGLcvdZ9qWBg%2BcrMO6%2F%2FcRivMpVrGAW29j8KmnJohxKfkru"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8c3b223d4eecce1b-VNO
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
